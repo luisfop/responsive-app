@@ -14,12 +14,12 @@ https://github.com/luisfop/responsive-app/
 
 
 # How to Use
+After clone step, just opent the index.html file inside of the project.
 
-Open the browser and open the file index.html
 
 
-# Follow some images of the project:
 
+### Please check it out some images of the project:
 ## Desktop
 ![image](https://user-images.githubusercontent.com/42620311/180060071-e80ea8c2-f0df-4434-8eab-76425f6604a2.png)
 
