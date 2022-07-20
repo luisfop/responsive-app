@@ -4,7 +4,7 @@
 
   
 
-This project  was created for study purposes. The application is a simple HTML responsive page for mobile and Tablets as well.
+This project  was created for study purposes. The application is a simple HTML responsive page for mobile and tablets.
 For styling I worked with SASS.
 
 
