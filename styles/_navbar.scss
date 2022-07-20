@@ -59,5 +59,19 @@
                 transition: all 0.3s ease;
             }
         }
+
+        #button{
+            padding: 12px 24px;
+            border: none;
+            outline: none;
+            border-radius: 4px;
+            background-color: $light;
+            color: $dark;
+
+            &:hover{
+                background: $orangeRed;
+                transition: all 0.3s ease;
+            }
+        }
     }
 }

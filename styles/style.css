@@ -71,6 +71,21 @@
   transition: all 0.3s ease;
 }
 
+.navbar__menu #button {
+  padding: 12px 24px;
+  border: none;
+  outline: none;
+  border-radius: 4px;
+  background-color: #f7f7f7;
+  color: #222121;
+}
+
+.navbar__menu #button:hover {
+  background: #fb4b4e;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+
 * {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
