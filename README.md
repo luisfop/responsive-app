@@ -1,5 +1,5 @@
 
-# Hey this is a UFOBlog page!
+# Hey, this is a UFOBlog page funny example!
 
 
   
